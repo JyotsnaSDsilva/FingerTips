@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "morse-code-d21b8",
+  "private_key_id": "351b5f23e8fddac13be28e24b0cd0ef39f0f54aa",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCgL/uayG2jLZcF\nXnnXhIbcJAeGg2/KdrurUSPSB2TQ46jPr7Ac1V+zjp2dpGDmJL77+tqnf7BHyotZ\nPmnt7/WIG7h8sZ+JjmsEYUjaWFkW2/utfPkKe00lCWNH2aFB7X1UvLT63hkPyzmG\n6R6+OoyrpSDyfWfWr0TpBuW+8RxBIjNB5JC4/2yP2pqvJLZhlNYkmLb5FJ3eWwj6\nYPjb8LrtD+MiPqF4sZ25II8iyqCXd9LkFHC11ZIDCYTGclkUGgki6qPccA5LFQb5\nMBG/hJ1uulVap3BcC7C3usCyNPujaYmSFansdcPbzHnnKOyB6CK8Fx9GSUqEq3VZ\nI8klZA9XAgMBAAECggEAE0Oh/QvUj5a4fkdN3NrNwyS8GPOumokr6Z7w8V29RJfU\nYeGtitIoV7Yzg1VU5+iMZU5WRGWJRCD6ICnu4FQG0a8PwUM1Pfw4J4cxlTyhviuH\neWY5pwaMEQOvgmEMURroAyxMkYzrM6iLiwt3DIaLC0tpCnCFb96VKXcQYyWo8bYj\n4Z2WIYsoX6HgzuUBnCFrtKVGMzdQdK7MvhXaTWASTwlp3hfriGEUa0qwr1C96eSN\n0D8Sj26z5UuDI/thmJBC8SG2s8DqXbXIEBrUqtVkMOhqRM/VS3mZ1LwgNuI0rbnJ\n5Qd2vDdZmLcUrgycKfV5OLoQCi96TepynCBik8DFlQKBgQDZm0PcPjSo4+8MnHRs\nHtNADR/C6Fg+YEOm+nX5HEbyK1KFTrSjllpDnQfm7NNqBVvsSFfoZ4OYZSAZa68H\nJER8Uuh7O9Vb64/Rb5G64BYMmqTSTJmEwhERvrSkFxkX8INqnTjHTsWkvytP8gEJ\nKMXdCIQPEl35c+H/w9tmzXuRnQKBgQC8cz5gag4NO11nO6MaQ/T+NTF/+meTUPd9\nIAnokOT9x1oK1jnCXnbVL1Z8VCB07hzigYcjxtU4e/CEwUXPemtmy/3xCXc9Xz1N\npGs82Z2pnjoUdy0dbwrV2t3WOA9yeMqOiPs68UqoFSczX3kucTr8C0Onjop9ohVE\n+QQmo3r8gwKBgQC13pTK4Jq2hTpn+eM78k9w+wcOqY4HJAGm7zHmcAHDqP2hOPS0\nvJbYZ8gQ8uKHe88mHhiKvuk3V12KoXt5ppAusERpqspZtvlOe8b6vwruodkbgrXU\nRTZq9E6ZzkxEu9m6I4ku2uFJHhWfDY5cD12/rLxitGEief3q+9DFjPu36QKBgQCv\nu1/9lKiJ2kQdklVklt6Nd5kzWJThoW1It2nF/+gqZ44l8ONnx6NU5ZHm2qRxpeI1\nrsgQqsgGpj0B7yFkeypQcAXckhEpn/iQwLRnyB7oH27VytS9T+Fwz2py61AsVUu+\nYyq0KnKODzvBAlUE4/43L2HljFzFDzJ6YSRny6dSdQKBgAngIIgyrRuSIPfxqbUz\n1zv+v4sMyt1gQRGdPB1C44Z/VkQoAK2FrZj3i/jCk9sq3pMdmMWzWgpjVr3L3h1K\nwPYFvpFY/bvcE91nfT8kOtaJ0oy/e7LmZ2V/Gfpd5o34OH8r4Xm2teDshpZvdfjW\ne5RQZAHv2QpZWKzdp+d6JSGI\n-----END PRIVATE KEY-----\n",
+  "client_email": "morsecommunication@morse-code-d21b8.iam.gserviceaccount.com",
+  "client_id": "104269169365937541861",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/morsecommunication%40morse-code-d21b8.iam.gserviceaccount.com"
+}

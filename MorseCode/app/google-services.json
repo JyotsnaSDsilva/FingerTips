@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "370502458189",
+    "firebase_url": "https://morse-code-d21b8.firebaseio.com",
+    "project_id": "morse-code-d21b8",
+    "storage_bucket": "morse-code-d21b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370502458189:android:7e975cfa7cf1471be3b504",
+        "android_client_info": {
+          "package_name": "com.example.morsecode"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "370502458189-1mir8nkmua3d81adrtj1kv7qccaah0nl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.morsecode",
+            "certificate_hash": "37721a12c844b640a41b3b724f77d970ae9fc396"
+          }
+        },
+        {
+          "client_id": "370502458189-b6af4t2la03s3ev8pe4uirn47k9hfbi3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAi-qM5HSOJqpEdIGj9_6ZFrwgC_y0XrbQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "370502458189-b6af4t2la03s3ev8pe4uirn47k9hfbi3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
